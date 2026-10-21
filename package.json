@@ -1,0 +1,14 @@
+{
+  "name": "xyzw-server-manager-demo",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Connection diagnostics scaffold for XYZW mini-program and Android clients",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node src/cli.js",
+    "test": "node --test"
+  }
+}
